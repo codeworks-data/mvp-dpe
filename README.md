@@ -4,7 +4,7 @@
 
 In this project, we look at DPE (Diagnostic de Performance Énergétique) data from France, analyse it and build ML models that predict the energy consumption of a building as well as its greenhouse gas emissions.
 
-The correnponsing medium article:  
+The correnponsing medium article: https://medium.com/codeworksparis/use-case-2-predicting-buildings-energy-consumption-using-machine-learning-589f1ffc34ea
 
 ## Table of contents
 * [Data source](#data-source)
