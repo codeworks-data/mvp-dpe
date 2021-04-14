@@ -31,7 +31,7 @@ The diagnoses span from 2001 to 2020 (as of today).
 ## Files
 ### Notebooks
 - **Sample_DPE_Data.ipynb**: This notebook contains the code for sampling 5% of the data to use in modeling.
-- **EDA.ipynb**: This notebook details the exploratory data analysis 
+- **EDA.ipynb**: This notebook details the exploratory data analysis.
 
 ### Data
 - data_sample.zip: contains the 5% sample extracted from the original data set. Contains about 500k rows.
