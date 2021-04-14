@@ -1,6 +1,6 @@
 # Use Case #2: Predicting Buildings' Energy Consumption using Machine Learning
 
-## Project Scope:
+## Project Scope
 
 In this project, we look at DPE (Diagnostic de Performance Énergétique) data from France, analyse it and build ML models that predict the energy consumption of a building as well as its greenhouse gas emissions.
 
