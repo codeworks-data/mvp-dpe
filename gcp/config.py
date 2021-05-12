@@ -25,6 +25,7 @@ class Config:
             'surface_commerciale_contractuelle', 'secteur_activite',
         ]
 
-        self.vars_hightly_correlated = ['nombre_boutiques', 'surface_thermique_lot']
-        self.min_year = 2000
+        self.vars_highly_correlated = ['nombre_boutiques', 'surface_thermique_lot']
+        self.min_year_construction = 1500
+        self.min_year_diagnostic = 2000
         self.max_year = 2020
