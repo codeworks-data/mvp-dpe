@@ -40,6 +40,7 @@ The diagnoses span from 2001 to 2020 (as of today).
 ### Notebooks
 - **Sample_DPE_Data.ipynb**: This notebook contains the code for sampling 5% of the data to use in modeling.
 - **EDA.ipynb**: This notebook details the exploratory data analysis.
+- **temperatures.ipynb**: This notebook contains the analysis and grouping of temperature data.
 - **models.ipynb**: This notebook details the modelling pipeline.
 
 ### Data
