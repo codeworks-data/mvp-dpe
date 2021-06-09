@@ -6,7 +6,7 @@ In this project, we look at DPE (Diagnostic de Performance Énergétique) data f
 
 The correnponsing medium article:
 Part 1: https://medium.com/codeworksparis/use-case-2-predicting-buildings-energy-consumption-using-machine-learning-589f1ffc34ea
-Part 2 : 
+Part 2 : https://medium.com/codeworksparis/use-case-2-predicting-buildings-energy-consumption-using-machine-learning-dd771f9ae122
 
 ## Table of contents
 * [Data source](#data-source)
