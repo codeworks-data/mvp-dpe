@@ -12,6 +12,8 @@ Part 2 :
 * [Data source](#data-source)
 * [Technologies](#technologies)
 * [Files](#Files)
+* [MLflow](#MLflow)
+* [Plots](#Plots)
 
 ## Data source
 We use a public French government dataset.
@@ -45,4 +47,12 @@ The diagnoses span from 2001 to 2020 (as of today).
 
 ### Data
 - data_sample.zip: contains the 5% sample extracted from the original data set. Contains about 500k rows.
+- temperature-quotidienne-departementale.csv: raw temperature data.
+- temperatures.csv: clean temperature dataset.
+
+### MLflow
+- Mlflow tracking experiments.
+
+### Plots
+- Performance plots.
 
